@@ -57,10 +57,10 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-10
-          - pl-10
-          - pb-10
-          - pr-10
+          - pt-6
+          - pl-6
+          - pb-6
+          - pr-6
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
