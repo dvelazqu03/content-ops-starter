@@ -41,6 +41,8 @@ sections:
           borderWidth: 0
           padding:
             - pl-7
+          margin:
+            - ml-8
     badge:
       label: This is a badge
       color: text-primary
