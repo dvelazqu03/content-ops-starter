@@ -44,6 +44,7 @@ sections:
           margin:
             - ml-20
             - mr-20
+            - mb-20
     badge:
       label: This is a badge
       color: text-primary
