@@ -43,7 +43,7 @@ sections:
             - pl-7
           margin:
             - ml-20
-            - mr-8
+            - mr-20
     badge:
       label: This is a badge
       color: text-primary
