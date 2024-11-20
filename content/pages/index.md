@@ -42,10 +42,10 @@ sections:
           padding:
             - pl-0
           margin:
-            - ml-36
-            - mr-36
-            - mb-36
-            - mt-36
+            - ml-44
+            - mr-44
+            - mb-44
+            - mt-44
     badge:
       label: This is a badge
       color: text-primary
