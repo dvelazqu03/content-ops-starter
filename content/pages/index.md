@@ -40,7 +40,7 @@ sections:
         self:
           borderWidth: 0
           padding:
-            - pl-7
+            - pl-20
           margin:
             - ml-20
             - mr-20
