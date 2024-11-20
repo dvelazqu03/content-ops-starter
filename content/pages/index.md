@@ -39,6 +39,8 @@ sections:
       styles:
         self:
           borderWidth: 0
+          padding:
+            - pl-7
     badge:
       label: This is a badge
       color: text-primary
